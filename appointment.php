@@ -69,7 +69,7 @@ $(function () {
                 
  Book Appointment
             </h3>
-            <p class="tiltle-para ">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic fuga sit illo modi aut aspernatur tempore laboriosam saepe dolores eveniet.</p>
+            <p class="tiltle-para ">Book your first appointment with us. </p>
         </div>
 </div>
 </div>
