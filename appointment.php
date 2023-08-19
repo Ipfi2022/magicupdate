@@ -36,7 +36,7 @@ $_SESSION['aptno']=$result['AptNumber'];
   <head>
  
 
-    <title>Beauty Parlour Management System | Appointment Page</title>
+    <title> Magic barbershop | Appointment Page</title>
 
     <!-- Template CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
