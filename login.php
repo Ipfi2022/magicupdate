@@ -24,7 +24,7 @@ if(isset($_POST['login']))
   <head>
  
 
-    <title>Beauty Parlour Management System | Login</title>
+    <title>Magic barbershop | Login</title>
 
     <!-- Template CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
