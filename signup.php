@@ -37,7 +37,7 @@ echo "<script>alert('This email or Contact Number already associated with anothe
   <head>
  
 
-    <title>Beauty Parlour Management System | Signup Page</title>
+    <title>Magic barbershop | Signup Page</title>
 
     <!-- Template CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
